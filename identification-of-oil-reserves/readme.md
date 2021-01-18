@@ -22,4 +22,4 @@ The Program takes Input as follows :
 - If you select the option 5 , then you would have enter data again and afterwards it will ask u to select your desired operation. And after these simply userly interfaces, u will get your desired result.
 
 ## Flow chart
-![Flow chart](/flow_chart.png)
+![Flow chart](https://github.com/SaudQadir/petro-work/blob/main/identification-of-oil-reserves/flow_chart.png)
